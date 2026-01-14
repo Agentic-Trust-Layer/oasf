@@ -1,0 +1,12 @@
+{
+  "caption": "OrgTrust Skills",
+  "name": "orgtrust_skills",
+  "uid": 801000,
+  "categories": {
+    "trust": {
+      "caption": "Trust",
+      "description": "Trust and verification capabilities such as name/account/app validation.",
+      "uid": 801100
+    }
+  }
+}
