@@ -3,10 +3,10 @@
   "name": "orgtrust_skills",
   "uid": 801000,
   "categories": {
-    "trust": {
-      "caption": "Trust",
-      "description": "Trust and verification capabilities such as name/account/app validation.",
-      "uid": 801100
+    "governance_and_trust": {
+      "caption": "Governance and Trust",
+      "description": "Governance relationships and trust operations including membership, delegation, alliances, and trust verification capabilities such as name/account/app validation.",
+      "uid": 801200
     }
   }
 }

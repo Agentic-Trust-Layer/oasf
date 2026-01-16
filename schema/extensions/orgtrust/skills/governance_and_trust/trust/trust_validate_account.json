@@ -3,5 +3,5 @@
   "description": "Validates an account identifier (e.g., wallet/account binding, control proofs, status, policy).",
   "extends": "base_skill",
   "name": "trust_validate_account",
-  "uid": 801102
+  "uid": 801211
 }

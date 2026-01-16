@@ -1,0 +1,33 @@
+{
+  "caption": "Delegation Request",
+  "description": "Request object for delegation operations including delegator, delegate, scope, constraints, and expiry.",
+  "extends": "object",
+  "name": "delegation_request",
+  "attributes": {
+    "delegator": {
+      "caption": "Delegator",
+      "description": "The agent or organization identifier that is granting the delegation.",
+      "requirement": "required"
+    },
+    "delegate": {
+      "caption": "Delegate",
+      "description": "The agent or organization identifier receiving the delegation.",
+      "requirement": "required"
+    },
+    "scope": {
+      "caption": "Scope",
+      "description": "The scope of permissions or actions being delegated.",
+      "requirement": "required"
+    },
+    "constraints": {
+      "caption": "Constraints",
+      "description": "Optional constraints or limitations on the delegation (e.g., time limits, resource limits).",
+      "requirement": "optional"
+    },
+    "expiry": {
+      "caption": "Expiry",
+      "description": "Optional timestamp when the delegation expires.",
+      "requirement": "optional"
+    }
+  }
+}

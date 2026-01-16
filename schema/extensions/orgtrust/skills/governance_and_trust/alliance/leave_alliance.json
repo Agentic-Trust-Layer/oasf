@@ -1,0 +1,7 @@
+{
+  "caption": "Leave Alliance",
+  "description": "Removes an agent or organization from an alliance, terminating associated terms and relationships.",
+  "extends": "base_skill",
+  "name": "leave_alliance",
+  "uid": 801208
+}

@@ -1,0 +1,7 @@
+{
+  "caption": "Add Member",
+  "description": "Adds a member to a group or organization with specified role and permissions.",
+  "extends": "base_skill",
+  "name": "add_member",
+  "uid": 801201
+}

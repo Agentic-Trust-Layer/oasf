@@ -1,0 +1,33 @@
+{
+  "caption": "Membership Request",
+  "description": "Request object for membership operations including subject, group, role, effective time, and reason.",
+  "extends": "object",
+  "name": "membership_request",
+  "attributes": {
+    "subject": {
+      "caption": "Subject",
+      "description": "The agent or organization identifier that is the subject of the membership operation.",
+      "requirement": "required"
+    },
+    "group": {
+      "caption": "Group",
+      "description": "The group or organization identifier where membership is being managed.",
+      "requirement": "required"
+    },
+    "role": {
+      "caption": "Role",
+      "description": "The role assigned to the member (e.g., member, admin, operator).",
+      "requirement": "optional"
+    },
+    "effectiveTime": {
+      "caption": "Effective Time",
+      "description": "Timestamp when the membership change becomes effective.",
+      "requirement": "optional"
+    },
+    "reason": {
+      "caption": "Reason",
+      "description": "Optional reason or justification for the membership change.",
+      "requirement": "optional"
+    }
+  }
+}

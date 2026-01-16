@@ -3,5 +3,5 @@
   "description": "Validates an app identity (publisher, signature, supply chain, provenance, policy conformance).",
   "extends": "base_skill",
   "name": "trust_validate_app",
-  "uid": 801103
+  "uid": 801212
 }

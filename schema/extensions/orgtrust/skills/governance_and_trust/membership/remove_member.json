@@ -1,0 +1,7 @@
+{
+  "caption": "Remove Member",
+  "description": "Removes a member from a group or organization, revoking associated permissions.",
+  "extends": "base_skill",
+  "name": "remove_member",
+  "uid": 801202
+}

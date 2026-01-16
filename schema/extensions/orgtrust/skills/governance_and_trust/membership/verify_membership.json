@@ -1,0 +1,7 @@
+{
+  "caption": "Verify Membership",
+  "description": "Verifies and attests membership status, role, and permissions for a member in a group or organization.",
+  "extends": "base_skill",
+  "name": "verify_membership",
+  "uid": 801203
+}

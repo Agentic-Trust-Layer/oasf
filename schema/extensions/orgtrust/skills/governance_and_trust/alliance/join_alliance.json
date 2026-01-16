@@ -1,0 +1,7 @@
+{
+  "caption": "Join Alliance",
+  "description": "Joins an agent or organization to an alliance with specified role and terms.",
+  "extends": "base_skill",
+  "name": "join_alliance",
+  "uid": 801207
+}

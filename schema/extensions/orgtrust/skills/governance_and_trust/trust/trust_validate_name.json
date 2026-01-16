@@ -3,5 +3,5 @@
   "description": "Validates a claimed human/org name (formatting, uniqueness, proof, policy checks, etc.).",
   "extends": "base_skill",
   "name": "trust_validate_name",
-  "uid": 801101
+  "uid": 801210
 }

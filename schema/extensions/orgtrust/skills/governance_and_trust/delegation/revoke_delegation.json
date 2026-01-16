@@ -1,0 +1,7 @@
+{
+  "caption": "Revoke Delegation",
+  "description": "Revokes an existing delegation relationship, removing granted permissions and scope.",
+  "extends": "base_skill",
+  "name": "revoke_delegation",
+  "uid": 801205
+}

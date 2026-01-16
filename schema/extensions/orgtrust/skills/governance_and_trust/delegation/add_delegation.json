@@ -1,0 +1,7 @@
+{
+  "caption": "Add Delegation",
+  "description": "Creates a delegation relationship granting specified permissions and scope to a delegate on behalf of a delegator.",
+  "extends": "base_skill",
+  "name": "add_delegation",
+  "uid": 801204
+}

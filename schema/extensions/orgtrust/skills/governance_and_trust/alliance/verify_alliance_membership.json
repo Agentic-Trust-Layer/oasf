@@ -1,0 +1,7 @@
+{
+  "caption": "Verify Alliance Membership",
+  "description": "Verifies and attests alliance membership status, role, terms, and validity for an agent or organization.",
+  "extends": "base_skill",
+  "name": "verify_alliance_membership",
+  "uid": 801209
+}

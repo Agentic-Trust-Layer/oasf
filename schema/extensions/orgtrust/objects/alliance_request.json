@@ -1,0 +1,28 @@
+{
+  "caption": "Alliance Request",
+  "description": "Request object for alliance operations including organization/agent, alliance identifier, role, and terms.",
+  "extends": "object",
+  "name": "alliance_request",
+  "attributes": {
+    "org": {
+      "caption": "Organization",
+      "description": "The agent or organization identifier joining or leaving the alliance.",
+      "requirement": "required"
+    },
+    "alliance": {
+      "caption": "Alliance",
+      "description": "The alliance identifier.",
+      "requirement": "required"
+    },
+    "role": {
+      "caption": "Role",
+      "description": "The role assigned within the alliance.",
+      "requirement": "optional"
+    },
+    "terms": {
+      "caption": "Terms",
+      "description": "Optional terms, conditions, or agreements associated with the alliance membership.",
+      "requirement": "optional"
+    }
+  }
+}

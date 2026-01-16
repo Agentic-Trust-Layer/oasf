@@ -1,0 +1,7 @@
+{
+  "caption": "Verify Delegation",
+  "description": "Verifies and attests delegation status, scope, constraints, and validity for a delegation relationship.",
+  "extends": "base_skill",
+  "name": "verify_delegation",
+  "uid": 801206
+}
